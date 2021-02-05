@@ -1,0 +1,6 @@
+<HTML>
+<HEAD><TITLE>SampleImage</TITLE></HEAD>
+<BODY  bgColor="LightCyan">
+<p align=center><img src="C:\html\Machine.jpg" alt="icon" height=1000 width=1000></p>
+</BODY>
+</HTML>

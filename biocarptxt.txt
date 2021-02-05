@@ -1,0 +1,19 @@
+<HTML>
+<HEAD><TITLE>Bio-Carp</TITLE></HEAD>
+<BODY bgcolor="LightCyan" text="black">
+<P ALIGN = CENTER> <img src="C:/html/bio img.jpg" width=1000 height=160 alt="not found"></p><BR>
+<P ALIGN = CENTER><FONT color="PURPLE" face="dubai" size=30><marquee scrollamount="9" behavior = "slide">"We use leaves, paper and cloth
+to make house decor products so that they don't rot!!"</marquee></FONT></p><br><br>
+
+<P ALIGN = CENTER><FONT color="black" size="6"><i>Bio-Carp is a company to make carpets using eco friendly materials that are leaves, cloth and paper.</i></FONT><br></p>
+<P ALIGN = CENTER><FONT color="black" size="6"><i>This might sound impossible at first but is actually made easy by our machine! All of the processes will be done on the principle of electromagnet using eco-friendly batteries and wires. The final product will be beautiful and eco-friendly.
+</i></FONT><br></p>
+<P ALIGN = CENTER><FONT color="black" size="6"><i> This product is made for industrial use only.Colors available are white, black and brown. For a sample picture of our product <a href="file:///C:/Users/ashru_000/Desktop/product.html" title="img">*click here*</i></FONT></p><br>
+<FONT color="green" size="10"><a href="file:///C:/Users/ashru_000/Desktop/order.html" title="Page1 file">Order Form</a></font><br>
+<FONT face="dubai" size=7><a href="C:/html/Bio-Carp.pdf" title="ppt">*Click Here for the PPT*</a></font><br><br>
+<FONT color="PURPLE" face="dubai" size=6>Price:</FONT><br>
+<FONT color="PURPLE" face="dubai" size=6>INR:20,000</FONT><br>
+<FONT color="PURPLE" face="dubai" size=6>USD:274</FONT><br>
+<FONT color="PURPLE" face="dubai" size=6>EUR:225</FONT><br>
+</BODY>
+</HEAD>

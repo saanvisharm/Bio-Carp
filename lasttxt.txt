@@ -1,0 +1,41 @@
+<HTML>
+<HEAD><TITLE>Bio-Carp/OrderPage3</TITLE></HEAD>
+<body  bgColor="LightCyan">
+
+<h2>Order Form</h2>
+
+<form>
+  <input type="radio" id="brown" name="product" value="color">
+  <FONT size="5"><label for="color">Brown</label></font><br>
+  <FONT size="5"><input type="radio" id="black" name="product" value="color"></font>
+  <FONT size="5"><label for="female">Black</label></font><br> 
+  <FONT size="5"><input type="radio" id="white" name="product" value="color"></font>
+  <FONT size="5"><label for="other">White</label></font>
+</form> 
+
+<form>
+  <input type="radio" id="card" name="pay" value="one">
+ <FONT size="5"> <label for="color">Card</label></font><br>
+  <FONT size="5"><input type="radio" id="cash" name="pay" value="one"></font>
+  <FONT size="5"><label for="female">Cash</label></font><br>
+  <FONT size="5"><input type="radio" id="online" name="pay" value="one"></font>
+    <FONT size="5"><label for="other">Online</label></font>
+</form> <br>
+<FONT  size=7 face="dubai">When do you want your order:</font><br>
+  <FONT size="5"><label for="birthday"></label></font>
+ <FONT size="5"> <input type="date" id="birthday" name="birthday"></font>
+  <input type="submit" value="Submit">
+</form><br>
+
+
+<form action="file:///C:/Users/ashru_000/Desktop/BYE.HTML">
+   <FONT size="5"><label for="fname">Phone Number</label></font><br>
+  <FONT size="5"><input type="text" id="fname" name="fname" value=" "></font><br>
+ <FONT size="5"> <label for="lname">Address</label></font><br>
+  <FONT size="5"><input type="text" id="lname" name="lname" value=" "></font><br><br>
+  <input type="submit" value="Submit">
+</form> <br><br><br><br><br><br><br><br><br><br><br> <br><br><br>
+<P ALIGN =CENTER> <img src="C:/html/bio img.jpg" width=500 height=80 alt="not found"></p><BR>
+
+</body>
+</html>

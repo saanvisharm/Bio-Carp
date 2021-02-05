@@ -1,0 +1,24 @@
+<HTML>
+<HEAD><TITLE>Bio-Carp/OrderPage2</TITLE></HEAD>
+<body  bgColor="LightCyan">
+
+<h2>Quantity Form</h2>
+    
+
+  <FONT size="5"><label for="quantity">Product Quantity(upto 50):</label></font><br>
+<FONT size="5"><input type="text" id="quantity" name="fname" value=" "></font><br>
+  <input type="submit" value="Submit"><br>
+
+
+</form> 
+<FONT size=7 face="dubai">Pick the glue color:</font><br>
+<form action="file:///C:/Users/ashru_000/Desktop/last.html">
+  <FONT size="5"><label for="favcolor">Select your eco friendly glue color:</font></label>
+  <FONT size="5"><input type="color" id="favcolor" name="favcolor" value="#ff0000"></font>
+  <input type="submit" value="Submit">
+</form><br><br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br>
+<P ALIGN =CENTER> <img src="C:/html/bio img.jpg" width=500 height=80 alt="not found"></p><BR>
+
+
+</body>
+</html>

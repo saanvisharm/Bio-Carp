@@ -1,0 +1,17 @@
+<HTML>
+<HEAD><TITLE>Bio-Carp/OrderPage</TITLE></HEAD>
+<body  bgColor="LightCyan">
+
+<h2>Order Form</h2>
+
+<form action="file:///C:/Users/ashru_000/Desktop/quantity.html">
+  <FONT size="10"><label for="fname">First name:</label></font><br>
+   <FONT size="10"><input type="text" id="fname" name="fname" value=" "></font><br>
+   <FONT size="10"><label for="lname">Last name:</label></font><br>
+   <FONT size="10"><input type="text" id="lname" name="lname" value=" "></font><br><br>
+   <input type="submit" value="Submit">
+</form> <br><br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br>
+<P ALIGN =CENTER> <img src="C:/html/bio img.jpg" width=500 height=80 alt="not found"></p><BR>
+
+</body>
+</html>
